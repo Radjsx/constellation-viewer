@@ -1,0 +1,10 @@
+.mainPanel {
+  display: flex;
+  flex-direction: column;
+  gap: 5;
+}
+
+.panelStyling{
+  background-color: #0D0D0D;
+  padding: 120px;
+}
